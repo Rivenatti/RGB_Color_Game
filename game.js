@@ -84,7 +84,7 @@ function randomRGBColor() {
   var b = Math.floor(Math.random() * 256);
 
   // RETURN RGB STRING
-  return ('rgb(" + r + ", " + g + ", " + b + ")');
+  return ("rgb(" + r + ", " + g + ", " + b + ")");
 }
 
 // GET RANDOM COLORS
